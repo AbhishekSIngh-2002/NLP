@@ -1,5 +1,6 @@
 # NLP-Text Summerization
-Project-Text Summerization using NLP
+# Project 
+Text Summerization using NLP
 <br>
 # About
 This project performs extractive summarization on a news dataset using NLP techniques.
@@ -11,7 +12,7 @@ The goal is to rank sentences based on word importance and generate meaningful s
 # Objective
 This project focuses on extractive text summarization using word frequency-based methods. The objective is to generate meaningful summaries by selecting the most important sentences from the original text.
 <br>
-# Steps-
+# Steps
 <br>
 Install Dependencies – Install required Python libraries.
 <br>
